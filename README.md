@@ -1,4 +1,4 @@
-This repo provides an example of fuzzing close-source JNI libraries on Android using AFL++ and Frida. You can find additional details in article [On Closed-Source JNI Fuzzing]().
+This repo provides an example of fuzzing close-source JNI libraries on Android using AFL++ and Frida. You can find additional details in article [On Closed-Source JNI Fuzzing](https://lein360.gitbook.io/journal/fuzzing/on-close-source-jni-fuzzing).
 
 The approach is based on the work by Quarkslab, which can be found in their blog post: [Android greybox fuzzing with AFL++ Frida mode](https://blog.quarkslab.com/android-greybox-fuzzing-with-afl-frida-mode.html).
 
